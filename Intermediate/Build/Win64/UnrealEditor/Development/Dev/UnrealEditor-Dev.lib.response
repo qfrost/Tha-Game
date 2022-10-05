@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Dev.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\DevEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\UnrealEditor\Development\Dev\Dev.cpp.obj"
+"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\UnrealEditor\Development\Dev\DevGameModeBase.cpp.obj"
+"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\UnrealEditor\Development\Dev\Dev.init.gen.cpp.obj"
+"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\UnrealEditor\Development\Dev\DevGameModeBase.gen.cpp.obj"
+"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\UnrealEditor\Development\Dev\Default.rc2.res"
+/OUT:"C:\Users\styop\OneDrive\Documents\Unreal Projects\Dev\Intermediate\Build\Win64\UnrealEditor\Development\Dev\UnrealEditor-Dev.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\source\\dev\\devgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\intermediate\\build\\win64\\deveditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\intermediate\\build\\win64\\unrealeditor\\development\\dev\\definitions.dev.h",
+            "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\source\\dev\\devgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\intermediate\\build\\win64\\unrealeditor\\inc\\dev\\devgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

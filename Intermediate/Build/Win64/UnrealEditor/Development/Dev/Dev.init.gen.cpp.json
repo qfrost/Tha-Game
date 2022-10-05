@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\intermediate\\build\\win64\\unrealeditor\\inc\\dev\\dev.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\intermediate\\build\\win64\\deveditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\styop\\onedrive\\documents\\unreal projects\\dev\\intermediate\\build\\win64\\unrealeditor\\development\\dev\\definitions.dev.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

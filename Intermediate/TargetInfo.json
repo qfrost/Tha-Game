@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dev",
+			"Path": "C:\\Users\\styop\\OneDrive\\Documents\\Unreal Projects\\Dev\\Source\\Dev.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DevEditor",
+			"Path": "C:\\Users\\styop\\OneDrive\\Documents\\Unreal Projects\\Dev\\Source\\DevEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
